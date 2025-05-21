@@ -20,9 +20,9 @@ Este documento tem como objetivo reunir observações, resumos e reflexões sobr
 
 ---
 
-### Artigo: *Regressions on quantum neural networks at maximal expressivity*  
-**Autores:** Iván Panadero, Yue Ban, Hilario Espinós, Ricardo Puebla, Jorge Casanova & Erik Torrontegui
-**Fonte:** Scientific Reports (Nature Publishing Group), 2024
+### *Regressions on quantum neural networks at maximal expressivity*  
+**Autores:** Iván Panadero, Yue Ban, Hilario Espinós, Ricardo Puebla, Jorge Casanova & Erik Torrontegui  
+**Fonte:** Scientific Reports (Nature Publishing Group), 2024  
 **Link:** https://doi.org/10.1038/s41598-024-81436-5
 
 #### Notas:
