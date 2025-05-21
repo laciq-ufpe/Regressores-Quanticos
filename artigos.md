@@ -19,3 +19,17 @@ Este documento tem como objetivo reunir observações, resumos e reflexões sobr
 - [Relações com outros trabalhos ou com os experimentos desenvolvidos no projeto]
 
 ---
+
+### Artigo: *Regressions on quantum neural networks at maximal expressivity*  
+**Autores:** Iván Panadero, Yue Ban, Hilario Espinós, Ricardo Puebla, Jorge Casanova & Erik Torrontegui
+**Fonte:** Scientific Reports (Nature Publishing Group), 2024
+**Link:** https://doi.org/10.1038/s41598-024-81436-5
+
+#### Notas:
+- O artigo investiga a expressividade de redes neurais quânticas (QNNs) com foco em tarefas de regressão, utilizando uma arquitetura baseada em data re-uploading.
+- A análise matemática rigorosa com base na decomposição de Fourier para quantificar a expressividade.
+- Inclusão ou não de portas de emaranhamento (entangling gates), Arquiteturas de QNN com data re-uploading.
+- [Limitações identificadas ou questões em aberto]
+- [Relações com outros trabalhos ou com os experimentos desenvolvidos no projeto]
+
+---
