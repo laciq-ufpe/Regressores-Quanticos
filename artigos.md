@@ -33,3 +33,13 @@ Este documento tem como objetivo reunir observações, resumos e reflexões sobr
 - [Relações com outros trabalhos ou com os experimentos desenvolvidos no projeto]
 
 ---
+
+### *Prediction by linear regression on a quantum computer*  
+**Autores:** Maria Schuld, Ilya Sinayskiy, Francesco Petruccione   
+**Fonte:** Physical Review A, 2016  
+**Link:** https://doi.org/10.1103/PhysRevA.94.022342
+
+#### Notas:
+- O artigo propõe um algoritmo de regressão linear quântica baseado em mínimos quadrados, focado na previsão de saídas para novas entradas, utilizando medições de um único qubit  
+
+---
