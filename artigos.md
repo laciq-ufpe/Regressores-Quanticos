@@ -43,3 +43,25 @@ Este documento tem como objetivo reunir observações, resumos e reflexões sobr
 - O artigo propõe um algoritmo de regressão linear quântica baseado em mínimos quadrados, focado na previsão de saídas para novas entradas, utilizando medições de um único qubit  
 
 ---
+
+### *Trainability and Expressivity of Hamming-Weight Preserving Quantum Circuits for Machine Learning*  
+**Autores:** Léo Monbroussou,  Eliott Z. Mamon, Jonas Landman, Alex B. Grilo, Romain Kukla & Elham Kashef  
+**Fonte:** Quantum Journal, 2025  
+**Link:** https://doi.org/10.22331/q-2025-05-15-1745
+
+
+#### Notas:
+- Os autores estudam circuitos quânticos que preservam o peso de Hamming e mostram que eles podem ser treinados de forma eficiente.
+- Demonstram que esses circuitos não sofrem de barren plateaus em muitos casos, contestando uma conjectura recente que liga controlabilidade à treinabilidade. Analisam a Matriz de Informação de Fisher Quântica e provam que ela tem posto quase constante
+ 
+---
+
+### *Enhancing the expressivity of quantum neural networks with residual connections*  
+**Autores:** Jingwei Wen, Zhiguo Huang, Dunbo Cai & Ling Qian  
+**Fonte:** Communications Physics (Nature), 2024  
+**Link:** https://doi.org/10.48550/arXiv.2401.15871
+
+#### Notas:
+- propõem um algoritmo para redes neurais residuais quânticas, usando qubits auxiliares nas conexões residuais para aumentar a expressividade dos circuitos.
+- a codificação residual pode alcançar maior riqueza espectral e aprimorar a expressividade de diversos circuitos quânticos parametrizados
+
