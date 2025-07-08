@@ -51,6 +51,6 @@ Após a conclusão de cada experimento, o responsável deve salvar os resultados
 
 - `AngleEmbedding` – Lucas Reis
 - `Embedding de Fourier` – Eduardo
-- `Talysson` – Lucas Reis
+- `Amplitude` – Talysson
 ---
 
