@@ -1,0 +1,13 @@
+[project]
+name = "regressores-quanticos"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.9.4",
+    "pennylane>=0.38.0",
+    "scikit-learn>=1.6.1",
+    "tqdm>=4.67.1",
+]
