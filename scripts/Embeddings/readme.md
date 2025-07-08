@@ -50,6 +50,7 @@ Após a conclusão de cada experimento, o responsável deve salvar os resultados
 ### ✅ Lista de Experimentos
 
 - `AngleEmbedding` – Lucas Reis
-
+- `Embedding de Fourier` – Eduardo
+- `Talysson` – Lucas Reis
 ---
 
