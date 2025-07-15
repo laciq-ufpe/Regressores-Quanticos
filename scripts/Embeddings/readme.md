@@ -53,5 +53,7 @@ Após a conclusão de cada experimento, o responsável deve salvar os resultados
 - `Embedding de Fourier` – Eduardo
 - `Amplitude` – Talysson
 - `QAOA` – Lucas Absalão
+- `Dense angle encoding` – Luan Henrique
+
 ---
 
