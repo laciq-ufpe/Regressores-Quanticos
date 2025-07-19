@@ -1,1 +1,1433 @@
-[{"MSE": 0.3400855124497034, "R2_Score": -5.343759962261885e-05, "Training_Time": 44.68773603439331, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 17.615236043930054}, {"MSE": 0.4951249898847194, "R2_Score": -7.124464709296063e-07, "Training_Time": 45.66235899925232, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 18.34100365638733}, {"MSE": 0.39219370771486484, "R2_Score": -0.08115551411659228, "Training_Time": 45.06700348854065, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 17.990365743637085}, {"MSE": 0.1434291661140224, "R2_Score": -0.011675816796880456, "Training_Time": 45.62735652923584, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 18.57924485206604}, {"MSE": 0.13531834482085137, "R2_Score": -0.09305783961094427, "Training_Time": 44.71584916114807, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 17.9023277759552}, {"MSE": 0.26038018374965355, "R2_Score": -0.23017129195581032, "Training_Time": 45.36676073074341, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 18.120165824890137}, {"MSE": 0.340168095626045, "R2_Score": -0.0002962811973796775, "Training_Time": 45.05657148361206, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 17.985305309295654}, {"MSE": 0.35340777778404475, "R2_Score": -0.0002966968595443653, "Training_Time": 46.611894369125366, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 18.42796039581299}, {"MSE": 0.33224796237011534, "R2_Score": -0.00021179432096873896, "Training_Time": 45.101601123809814, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 17.882829904556274}, {"MSE": 0.3933297118804301, "R2_Score": -0.18873668316670877, "Training_Time": 45.5513858795166, "N_Qubits": 1, "N_layers": 1, "Circuit_Depth": 2, "Embedding_Time": 18.164706468582153}, {"MSE": 0.1864811913916501, "R2_Score": 0.45163451640277164, "Training_Time": 66.19629383087158, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 26.92606234550476}, {"MSE": 0.11732032747838356, "R2_Score": 0.7630488998542516, "Training_Time": 64.38760185241699, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 25.939897775650024}, {"MSE": 0.1958163666110876, "R2_Score": 0.4601954586436895, "Training_Time": 63.723986864089966, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 25.59379506111145}, {"MSE": 0.13299476616584843, "R2_Score": 0.06192309182371569, "Training_Time": 63.606958866119385, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 25.38209319114685}, {"MSE": 0.06929627624803157, "R2_Score": 0.44024708468733076, "Training_Time": 63.57995104789734, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 25.220985412597656}, {"MSE": 0.1394281773104462, "R2_Score": 0.3412688379467985, "Training_Time": 66.70295333862305, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 25.15112590789795}, {"MSE": 0.21902024911546117, "R2_Score": 0.3559503565614658, "Training_Time": 68.97168803215027, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 27.890082597732544}, {"MSE": 0.33992906433633124, "R2_Score": 0.03785388551927049, "Training_Time": 68.90529775619507, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 28.284502744674683}, {"MSE": 0.17574889654124895, "R2_Score": 0.47091889471505055, "Training_Time": 71.5939576625824, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 27.614936590194702}, {"MSE": 0.1966082091953103, "R2_Score": 0.40580285845980624, "Training_Time": 65.3487274646759, "N_Qubits": 1, "N_layers": 2, "Circuit_Depth": 3, "Embedding_Time": 27.39526653289795}, {"MSE": 0.5267488014821801, "R2_Score": -0.5489543964376973, "Training_Time": 86.79128193855286, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 33.78023076057434}, {"MSE": 0.35173631159858343, "R2_Score": 0.2896004657858764, "Training_Time": 85.89631867408752, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 34.43412160873413}, {"MSE": 0.5564570796305109, "R2_Score": -0.5339783075998092, "Training_Time": 84.2631402015686, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 34.27566838264465}, {"MSE": 0.14338574845546703, "R2_Score": -0.011369570889074643, "Training_Time": 84.99672746658325, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 33.136160135269165}, {"MSE": 0.1348873607548492, "R2_Score": -0.08957648966748488, "Training_Time": 88.09007787704468, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 32.98178791999817}, {"MSE": 0.260404293274859, "R2_Score": -0.23028519788115087, "Training_Time": 93.73842525482178, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 37.664113998413086}, {"MSE": 0.3401285922334531, "R2_Score": -0.0001801177557974043, "Training_Time": 85.6655375957489, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 37.681867599487305}, {"MSE": 0.3520637286116257, "R2_Score": 0.0035075429792548185, "Training_Time": 85.21041464805603, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 33.062620639801025}, {"MSE": 0.5216959369867444, "R2_Score": -0.5705331208087061, "Training_Time": 86.4248456954956, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 32.76711463928223}, {"MSE": 0.39284146308556145, "R2_Score": -0.18726107825957494, "Training_Time": 84.86118936538696, "N_Qubits": 1, "N_layers": 3, "Circuit_Depth": 4, "Embedding_Time": 33.48652172088623}, {"MSE": 0.3400677105367766, "R2_Score": -1.089400224030257e-06, "Training_Time": 105.1902539730072, "N_Qubits": 1, "N_layers": 4, "Circuit_Depth": 5, "Embedding_Time": 41.79118585586548}, {"MSE": 0.49512451928197715, "R2_Score": 2.380268180335321e-07, "Training_Time": 115.55086207389832, "N_Qubits": 1, "N_layers": 4, "Circuit_Depth": 5, "Embedding_Time": 45.005943298339844}]
+[
+    {
+        "MSE": 0.34016416381202114,
+        "R2_Score": -0.0002847193284183369,
+        "Training_Time": 54.745665073394775,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 22.216755390167236
+    },
+    {
+        "MSE": 0.49512777344333336,
+        "R2_Score": -6.334381646766474e-06,
+        "Training_Time": 55.40632224082947,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 21.412124633789062
+    },
+    {
+        "MSE": 0.39320842846933374,
+        "R2_Score": -0.08395278219459068,
+        "Training_Time": 56.043943643569946,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 21.56105065345764
+    },
+    {
+        "MSE": 0.14333363459812629,
+        "R2_Score": -0.011001986452658707,
+        "Training_Time": 54.980507135391235,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 21.553028345108032
+    },
+    {
+        "MSE": 0.13509084159418966,
+        "R2_Score": -0.09122014210016949,
+        "Training_Time": 55.08013415336609,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 21.51609206199646
+    },
+    {
+        "MSE": 0.2606468271005384,
+        "R2_Score": -0.23143105370390393,
+        "Training_Time": 55.39509701728821,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 21.49100637435913
+    },
+    {
+        "MSE": 0.34011664924191864,
+        "R2_Score": -0.0001449982658396909,
+        "Training_Time": 55.49943399429321,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 21.563550233840942
+    },
+    {
+        "MSE": 0.35339094625299766,
+        "R2_Score": -0.00024905635481342614,
+        "Training_Time": 68.15227437019348,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 35.23432469367981
+    },
+    {
+        "MSE": 0.33217786209369704,
+        "R2_Score": -7.618054989055878e-07,
+        "Training_Time": 61.108216762542725,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 23.73782444000244
+    },
+    {
+        "MSE": 0.39803037057498813,
+        "R2_Score": -0.20294320064171267,
+        "Training_Time": 60.93104410171509,
+        "N_Qubits": 1,
+        "N_layers": 1,
+        "Circuit_Depth": 2,
+        "Embedding_Time": 24.06502342224121
+    },
+    {
+        "MSE": 0.18533859881463266,
+        "R2_Score": 0.45499441734707047,
+        "Training_Time": 96.22742319107056,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 37.08698058128357
+    },
+    {
+        "MSE": 0.11484180324267478,
+        "R2_Score": 0.7680547590860825,
+        "Training_Time": 94.9031994342804,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 38.86061406135559
+    },
+    {
+        "MSE": 0.20212047169243352,
+        "R2_Score": 0.44281701060590817,
+        "Training_Time": 93.45699310302734,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 42.60401487350464
+    },
+    {
+        "MSE": 0.13250587774616426,
+        "R2_Score": 0.06537146013475581,
+        "Training_Time": 91.27437663078308,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 35.421109437942505
+    },
+    {
+        "MSE": 0.06887159718814091,
+        "R2_Score": 0.44367750482989665,
+        "Training_Time": 91.36851167678833,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 35.49923253059387
+    },
+    {
+        "MSE": 0.13838743678197582,
+        "R2_Score": 0.3461858370135561,
+        "Training_Time": 90.56570816040039,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 33.95816969871521
+    },
+    {
+        "MSE": 0.19753330884567483,
+        "R2_Score": 0.41913472547360975,
+        "Training_Time": 99.97391033172607,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 35.41126489639282
+    },
+    {
+        "MSE": 0.3387176038757179,
+        "R2_Score": 0.04128284202024479,
+        "Training_Time": 103.8584451675415,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 40.611307859420776
+    },
+    {
+        "MSE": 0.17516896843320282,
+        "R2_Score": 0.4726647321594344,
+        "Training_Time": 103.45813846588135,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 39.565510749816895
+    },
+    {
+        "MSE": 0.19906087199921665,
+        "R2_Score": 0.39839032348373427,
+        "Training_Time": 96.54614424705505,
+        "N_Qubits": 1,
+        "N_layers": 2,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 41.09694314002991
+    },
+    {
+        "MSE": 0.22227532988808096,
+        "R2_Score": 0.3463784853786135,
+        "Training_Time": 117.03317070007324,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.27424669265747
+    },
+    {
+        "MSE": 0.24758882095428142,
+        "R2_Score": 0.49994647330220676,
+        "Training_Time": 117.22126007080078,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.22581505775452
+    },
+    {
+        "MSE": 0.5546431910601148,
+        "R2_Score": -0.5289779835474342,
+        "Training_Time": 117.2081458568573,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.34630537033081
+    },
+    {
+        "MSE": 0.13069190983741513,
+        "R2_Score": 0.07816625993348159,
+        "Training_Time": 117.06546640396118,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.551941871643066
+    },
+    {
+        "MSE": 0.13517533557996778,
+        "R2_Score": -0.09190265719948609,
+        "Training_Time": 117.02574253082275,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.015000104904175
+    },
+    {
+        "MSE": 0.11025169241420894,
+        "R2_Score": 0.4791137138611744,
+        "Training_Time": 116.98421335220337,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.323060274124146
+    },
+    {
+        "MSE": 0.3400745366537929,
+        "R2_Score": -2.116223937087547e-05,
+        "Training_Time": 116.88273215293884,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.20323324203491
+    },
+    {
+        "MSE": 0.35075839798902037,
+        "R2_Score": 0.007202192594180867,
+        "Training_Time": 116.51832365989685,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 45.251118659973145
+    },
+    {
+        "MSE": 0.22876937348144594,
+        "R2_Score": 0.3113040516388059,
+        "Training_Time": 117.27789831161499,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 44.12094736099243
+    },
+    {
+        "MSE": 0.5285833386092452,
+        "R2_Score": -0.5975055678136845,
+        "Training_Time": 121.94317030906677,
+        "N_Qubits": 1,
+        "N_layers": 3,
+        "Circuit_Depth": 4,
+        "Embedding_Time": 44.57574415206909
+    },
+    {
+        "MSE": 0.2245376460446731,
+        "R2_Score": 0.3397259319280407,
+        "Training_Time": 154.74435234069824,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 59.87280559539795
+    },
+    {
+        "MSE": 0.4948087422140219,
+        "R2_Score": 0.0006380109112023025,
+        "Training_Time": 152.64647340774536,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 59.90046548843384
+    },
+    {
+        "MSE": 0.228673491466027,
+        "R2_Score": 0.36961863138678275,
+        "Training_Time": 158.56639504432678,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 58.585245847702026
+    },
+    {
+        "MSE": 0.1434282163681902,
+        "R2_Score": -0.01166911777661439,
+        "Training_Time": 149.71831011772156,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 59.59976530075073
+    },
+    {
+        "MSE": 0.15714926335889676,
+        "R2_Score": -0.2694009413944456,
+        "Training_Time": 152.97126126289368,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 60.76634407043457
+    },
+    {
+        "MSE": 0.2794934904716931,
+        "R2_Score": -0.32047248494677016,
+        "Training_Time": 149.17823696136475,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 59.34143924713135
+    },
+    {
+        "MSE": 0.22284239827377963,
+        "R2_Score": 0.3447109674523511,
+        "Training_Time": 144.4743254184723,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 59.33307981491089
+    },
+    {
+        "MSE": 0.35339382017085463,
+        "R2_Score": -0.00025719078399144557,
+        "Training_Time": 152.75869631767273,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 55.52779483795166
+    },
+    {
+        "MSE": 0.332231440042272,
+        "R2_Score": -0.0001620548822054424,
+        "Training_Time": 158.20738005638123,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 62.29631018638611
+    },
+    {
+        "MSE": 0.2244127039080518,
+        "R2_Score": 0.32177100980048534,
+        "Training_Time": 155.29143357276917,
+        "N_Qubits": 1,
+        "N_layers": 4,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 61.48888611793518
+    },
+    {
+        "MSE": 0.34015500029797463,
+        "R2_Score": -0.00025777315345010265,
+        "Training_Time": 180.47123217582703,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 84.01568531990051
+    },
+    {
+        "MSE": 0.4951246893486101,
+        "R2_Score": -1.0545565132247248e-07,
+        "Training_Time": 180.66247463226318,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 69.03042840957642
+    },
+    {
+        "MSE": 0.39413348336315773,
+        "R2_Score": -0.08650286951023278,
+        "Training_Time": 171.1047387123108,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 65.079341173172
+    },
+    {
+        "MSE": 0.14338561168381816,
+        "R2_Score": -0.011368606171971773,
+        "Training_Time": 178.8471462726593,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 70.08323216438293
+    },
+    {
+        "MSE": 0.12200707990587865,
+        "R2_Score": 0.014466254699490033,
+        "Training_Time": 183.5894958972931,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 68.71107387542725
+    },
+    {
+        "MSE": 0.26128769755874104,
+        "R2_Score": -0.23445885877028894,
+        "Training_Time": 178.7998387813568,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 67.88230228424072
+    },
+    {
+        "MSE": 0.37937767082864715,
+        "R2_Score": -0.11559572510998195,
+        "Training_Time": 188.20749521255493,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 69.20499992370605
+    },
+    {
+        "MSE": 0.35187663718010015,
+        "R2_Score": 0.004037092561154698,
+        "Training_Time": 180.3008692264557,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 70.57296633720398
+    },
+    {
+        "MSE": 0.4246674348207584,
+        "R2_Score": -0.27843485913868604,
+        "Training_Time": 180.40788865089417,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 70.63312220573425
+    },
+    {
+        "MSE": 0.3971019854059649,
+        "R2_Score": -0.20013739809694786,
+        "Training_Time": 177.8424472808838,
+        "N_Qubits": 1,
+        "N_layers": 5,
+        "Circuit_Depth": 6,
+        "Embedding_Time": 68.794260263443
+    },
+    {
+        "MSE": 0.33507948052107006,
+        "R2_Score": 0.01466727015091307,
+        "Training_Time": 104.19828248023987,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 39.58880043029785
+    },
+    {
+        "MSE": 0.6474750577129881,
+        "R2_Score": -0.30770115068330606,
+        "Training_Time": 107.7985007762909,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 40.03165030479431
+    },
+    {
+        "MSE": 0.40630837415016885,
+        "R2_Score": -0.12006523945451075,
+        "Training_Time": 98.26322174072266,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 38.62393069267273
+    },
+    {
+        "MSE": 0.29403135463649,
+        "R2_Score": -1.0739464568126116,
+        "Training_Time": 99.75489616394043,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 36.69504952430725
+    },
+    {
+        "MSE": 0.14704656766831653,
+        "R2_Score": -0.1877946319142929,
+        "Training_Time": 96.76880311965942,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 36.26952910423279
+    },
+    {
+        "MSE": 0.1920997872568381,
+        "R2_Score": 0.09242078229198092,
+        "Training_Time": 96.87820720672607,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 35.964022397994995
+    },
+    {
+        "MSE": 0.30692651057390696,
+        "R2_Score": 0.09745372633217486,
+        "Training_Time": 96.55914163589478,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 36.03844666481018
+    },
+    {
+        "MSE": 0.316658357269543,
+        "R2_Score": 0.10372004035731841,
+        "Training_Time": 96.54083847999573,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 36.06625437736511
+    },
+    {
+        "MSE": 0.2664121190489021,
+        "R2_Score": 0.1979829109503608,
+        "Training_Time": 96.33039593696594,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 35.85596203804016
+    },
+    {
+        "MSE": 0.37640554866345854,
+        "R2_Score": -0.137587804655261,
+        "Training_Time": 96.50202131271362,
+        "N_Qubits": 2,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 36.00413966178894
+    },
+    {
+        "MSE": 0.08796697795478677,
+        "R2_Score": 0.7413248272022608,
+        "Training_Time": 160.7340018749237,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 60.12898373603821
+    },
+    {
+        "MSE": 0.0673877997028083,
+        "R2_Score": 0.8638973005004285,
+        "Training_Time": 160.704998254776,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 60.194374561309814
+    },
+    {
+        "MSE": 0.11637660040903616,
+        "R2_Score": 0.6791860736892595,
+        "Training_Time": 163.3419644832611,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 60.14605927467346
+    },
+    {
+        "MSE": 0.19165849325747286,
+        "R2_Score": -0.3518607683891213,
+        "Training_Time": 177.4846522808075,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 62.23397254943848
+    },
+    {
+        "MSE": 0.04707378359122595,
+        "R2_Score": 0.6197531956021245,
+        "Training_Time": 176.49780774116516,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 71.94800448417664
+    },
+    {
+        "MSE": 0.09176762173681169,
+        "R2_Score": 0.5664420688011134,
+        "Training_Time": 183.59522581100464,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 69.43316292762756
+    },
+    {
+        "MSE": 0.13270510960170667,
+        "R2_Score": 0.6097681430524072,
+        "Training_Time": 195.634859085083,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 73.34427523612976
+    },
+    {
+        "MSE": 0.21168988904657796,
+        "R2_Score": 0.4008261558373225,
+        "Training_Time": 198.93872094154358,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 76.6034324169159
+    },
+    {
+        "MSE": 0.09350228471484645,
+        "R2_Score": 0.7185171963114538,
+        "Training_Time": 200.64668798446655,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 77.32757830619812
+    },
+    {
+        "MSE": 0.12647719930134074,
+        "R2_Score": 0.6177555830325996,
+        "Training_Time": 206.4462890625,
+        "N_Qubits": 2,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 85.14741444587708
+    },
+    {
+        "MSE": 0.3399184802139337,
+        "R2_Score": 0.0004377364006109552,
+        "Training_Time": 278.1190481185913,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 103.55066919326782
+    },
+    {
+        "MSE": 0.47819575243312284,
+        "R2_Score": 0.03419115800772232,
+        "Training_Time": 298.9437646865845,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 110.81386399269104
+    },
+    {
+        "MSE": 0.3690484747833769,
+        "R2_Score": -0.017351338483096335,
+        "Training_Time": 253.71984767913818,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 100.68622875213623
+    },
+    {
+        "MSE": 0.13800721728738588,
+        "R2_Score": 0.026567830966209516,
+        "Training_Time": 254.118230342865,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 97.23618268966675
+    },
+    {
+        "MSE": 0.0856896192296975,
+        "R2_Score": 0.3078269602225818,
+        "Training_Time": 272.2123579978943,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 99.79789590835571
+    },
+    {
+        "MSE": 0.2356964895038522,
+        "R2_Score": -0.113552693707202,
+        "Training_Time": 268.44929695129395,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 106.14787244796753
+    },
+    {
+        "MSE": 0.32607775536277295,
+        "R2_Score": 0.041137689675806444,
+        "Training_Time": 265.26083517074585,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 103.21356105804443
+    },
+    {
+        "MSE": 0.33290090199503786,
+        "R2_Score": 0.057746621381140395,
+        "Training_Time": 264.196355342865,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 96.32395505905151
+    },
+    {
+        "MSE": 0.3054514842045589,
+        "R2_Score": 0.08045733398988286,
+        "Training_Time": 265.27105379104614,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 109.58000612258911
+    },
+    {
+        "MSE": 0.4115590177218932,
+        "R2_Score": -0.24383001557430428,
+        "Training_Time": 254.93280911445618,
+        "N_Qubits": 2,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 100.09340071678162
+    },
+    {
+        "MSE": 0.17877127706312188,
+        "R2_Score": 0.4743062446757704,
+        "Training_Time": 341.71428871154785,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 122.4801332950592
+    },
+    {
+        "MSE": 0.31306760961133184,
+        "R2_Score": 0.3676993909595687,
+        "Training_Time": 358.8038637638092,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 125.20444202423096
+    },
+    {
+        "MSE": 0.33986030628148983,
+        "R2_Score": 0.06311132244700224,
+        "Training_Time": 344.38034772872925,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 137.7216854095459
+    },
+    {
+        "MSE": 0.1584697087213627,
+        "R2_Score": -0.11776409465281401,
+        "Training_Time": 326.5658450126648,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 121.09781289100647
+    },
+    {
+        "MSE": 0.048626201801148836,
+        "R2_Score": 0.6072132632155918,
+        "Training_Time": 331.36720395088196,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 122.31636595726013
+    },
+    {
+        "MSE": 0.17427905306466795,
+        "R2_Score": 0.1766151909796283,
+        "Training_Time": 344.36378288269043,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 119.63481378555298
+    },
+    {
+        "MSE": 0.2150809433835727,
+        "R2_Score": 0.36753425559484076,
+        "Training_Time": 334.9378490447998,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 129.32394528388977
+    },
+    {
+        "MSE": 0.4409221569585843,
+        "R2_Score": -0.24800019949580632,
+        "Training_Time": 358.4583959579468,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 140.26185154914856
+    },
+    {
+        "MSE": 0.29048649653450875,
+        "R2_Score": 0.12550849717136814,
+        "Training_Time": 356.27947068214417,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 140.4349935054779
+    },
+    {
+        "MSE": 0.35054392474575413,
+        "R2_Score": -0.05942777730756266,
+        "Training_Time": 363.93480682373047,
+        "N_Qubits": 2,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 132.37029266357422
+    },
+    {
+        "MSE": 0.2619832329020521,
+        "R2_Score": 0.22961366166426267,
+        "Training_Time": 426.57553362846375,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 160.39438819885254
+    },
+    {
+        "MSE": 0.1081366863853646,
+        "R2_Score": 0.7815970398663521,
+        "Training_Time": 418.238472700119,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 160.75061058998108
+    },
+    {
+        "MSE": 0.40342166456479833,
+        "R2_Score": -0.11210748305892482,
+        "Training_Time": 403.73921060562134,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 154.6040804386139
+    },
+    {
+        "MSE": 0.14019922263799367,
+        "R2_Score": 0.01110654883244655,
+        "Training_Time": 384.6691725254059,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 145.1195478439331
+    },
+    {
+        "MSE": 0.07749351862418981,
+        "R2_Score": 0.3740324110278722,
+        "Training_Time": 379.5151250362396,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 143.2514204978943
+    },
+    {
+        "MSE": 0.1270094886145181,
+        "R2_Score": 0.39994117659202855,
+        "Training_Time": 379.32767367362976,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 143.45405077934265
+    },
+    {
+        "MSE": 0.26651103512758045,
+        "R2_Score": 0.21629923333770917,
+        "Training_Time": 379.34345746040344,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 143.19400334358215
+    },
+    {
+        "MSE": 0.36890566613746045,
+        "R2_Score": -0.044162416582591346,
+        "Training_Time": 380.7821168899536,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 143.1777994632721
+    },
+    {
+        "MSE": 0.358169952011459,
+        "R2_Score": -0.07824832940332827,
+        "Training_Time": 380.70110869407654,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 144.0299699306488
+    },
+    {
+        "MSE": 0.05626852759366744,
+        "R2_Score": 0.8299430202244564,
+        "Training_Time": 380.28397154808044,
+        "N_Qubits": 2,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 143.5361886024475
+    },
+    {
+        "MSE": 0.2089752651888028,
+        "R2_Score": 0.3854885766230256,
+        "Training_Time": 147.75292229652405,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 61.57231950759888
+    },
+    {
+        "MSE": 0.28001516948548916,
+        "R2_Score": 0.4344551886857805,
+        "Training_Time": 147.69226813316345,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 61.34090256690979
+    },
+    {
+        "MSE": 0.24930771151291084,
+        "R2_Score": 0.31273653372854426,
+        "Training_Time": 147.56246495246887,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 60.974873781204224
+    },
+    {
+        "MSE": 0.12926694311065437,
+        "R2_Score": 0.08821724479424586,
+        "Training_Time": 150.23110508918762,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 61.161439180374146
+    },
+    {
+        "MSE": 0.1181216035887934,
+        "R2_Score": 0.04585187617332198,
+        "Training_Time": 149.48900938034058,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 62.03227710723877
+    },
+    {
+        "MSE": 0.1075973298401868,
+        "R2_Score": 0.4916543019734536,
+        "Training_Time": 149.99424719810486,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 62.152841329574585
+    },
+    {
+        "MSE": 0.17246375934675182,
+        "R2_Score": 0.49285409380212597,
+        "Training_Time": 150.49900650978088,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 61.93752861022949
+    },
+    {
+        "MSE": 0.22867180751588045,
+        "R2_Score": 0.3527599897283199,
+        "Training_Time": 149.65173172950745,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 62.16108822822571
+    },
+    {
+        "MSE": 0.35911093035792374,
+        "R2_Score": -0.08108108609992537,
+        "Training_Time": 149.6665976047516,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 62.337074995040894
+    },
+    {
+        "MSE": 0.3162321684793696,
+        "R2_Score": 0.04427057576810245,
+        "Training_Time": 149.73129749298096,
+        "N_Qubits": 3,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 61.86717891693115
+    },
+    {
+        "MSE": 0.48331046361507957,
+        "R2_Score": -0.42121987815523365,
+        "Training_Time": 287.1716809272766,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 111.15076875686646
+    },
+    {
+        "MSE": 0.18425379653162247,
+        "R2_Score": 0.6278638090040868,
+        "Training_Time": 284.8485498428345,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 117.34226441383362
+    },
+    {
+        "MSE": 0.2071429621862107,
+        "R2_Score": 0.42897157355495685,
+        "Training_Time": 284.3469693660736,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 116.17082595825195
+    },
+    {
+        "MSE": 0.13163147117332227,
+        "R2_Score": 0.07153907588376762,
+        "Training_Time": 266.80197191238403,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 109.31104278564453
+    },
+    {
+        "MSE": 0.07044009685595372,
+        "R2_Score": 0.43100767162583464,
+        "Training_Time": 268.45217537879944,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 109.62814331054688
+    },
+    {
+        "MSE": 0.20145457914984882,
+        "R2_Score": 0.048223884266640926,
+        "Training_Time": 267.29234290122986,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 109.3257417678833
+    },
+    {
+        "MSE": 0.10422369290070094,
+        "R2_Score": 0.6935204278068499,
+        "Training_Time": 262.43268156051636,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 109.35819482803345
+    },
+    {
+        "MSE": 0.2989275207199361,
+        "R2_Score": 0.15390596819495128,
+        "Training_Time": 261.81695222854614,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 107.85828995704651
+    },
+    {
+        "MSE": 0.2313574849781203,
+        "R2_Score": 0.30351270319674173,
+        "Training_Time": 263.0395710468292,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 107.45146536827087
+    },
+    {
+        "MSE": 0.19810510996051817,
+        "R2_Score": 0.4012788654917798,
+        "Training_Time": 263.05853176116943,
+        "N_Qubits": 3,
+        "N_layers": 2,
+        "Circuit_Depth": 5,
+        "Embedding_Time": 107.54513621330261
+    },
+    {
+        "MSE": 0.18036295318673568,
+        "R2_Score": 0.4696257713221734,
+        "Training_Time": 372.8894467353821,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.57487297058105
+    },
+    {
+        "MSE": 0.3646663943222077,
+        "R2_Score": 0.2634856620499013,
+        "Training_Time": 372.74444484710693,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 153.42936825752258
+    },
+    {
+        "MSE": 0.3410722863509294,
+        "R2_Score": 0.059770272069858965,
+        "Training_Time": 372.62673354148865,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.4159801006317
+    },
+    {
+        "MSE": 0.14869911747242776,
+        "R2_Score": -0.04884735233210202,
+        "Training_Time": 372.94086170196533,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.7102608680725
+    },
+    {
+        "MSE": 0.04814645133831953,
+        "R2_Score": 0.6110885323459289,
+        "Training_Time": 372.49315667152405,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.4459366798401
+    },
+    {
+        "MSE": 0.16330211137363734,
+        "R2_Score": 0.2284759675845096,
+        "Training_Time": 372.784250497818,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.4035665988922
+    },
+    {
+        "MSE": 0.253398649484555,
+        "R2_Score": 0.25485743666422966,
+        "Training_Time": 372.5628671646118,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.28208017349243
+    },
+    {
+        "MSE": 0.2989529754113873,
+        "R2_Score": 0.1538339204207403,
+        "Training_Time": 372.25456070899963,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.71769905090332
+    },
+    {
+        "MSE": 0.21368902688416455,
+        "R2_Score": 0.3567024956847811,
+        "Training_Time": 372.0683948993683,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 152.75197744369507
+    },
+    {
+        "MSE": 0.3612043444752173,
+        "R2_Score": -0.09164612137768824,
+        "Training_Time": 377.1668245792389,
+        "N_Qubits": 3,
+        "N_layers": 3,
+        "Circuit_Depth": 7,
+        "Embedding_Time": 153.03816843032837
+    },
+    {
+        "MSE": 0.033102961809117655,
+        "R2_Score": 0.9026576271553669,
+        "Training_Time": 479.60963916778564,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 197.46065735816956
+    },
+    {
+        "MSE": 0.3243233756151646,
+        "R2_Score": 0.3449661937812477,
+        "Training_Time": 480.27628993988037,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 198.04170489311218
+    },
+    {
+        "MSE": 0.08900607553840734,
+        "R2_Score": 0.7546380590374276,
+        "Training_Time": 479.9980421066284,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 197.55338335037231
+    },
+    {
+        "MSE": 0.15377176225173833,
+        "R2_Score": -0.08462718839661432,
+        "Training_Time": 480.60020661354065,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 197.925678730011
+    },
+    {
+        "MSE": 0.043278349196493676,
+        "R2_Score": 0.6504114875386947,
+        "Training_Time": 480.2028775215149,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 197.84238743782043
+    },
+    {
+        "MSE": 0.12001009931111621,
+        "R2_Score": 0.4330099288229826,
+        "Training_Time": 479.91445088386536,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 197.3018500804901
+    },
+    {
+        "MSE": 0.24047931110277992,
+        "R2_Score": 0.2928479663611324,
+        "Training_Time": 479.86824893951416,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 198.04143452644348
+    },
+    {
+        "MSE": 0.17841115086633105,
+        "R2_Score": 0.4950193625802032,
+        "Training_Time": 479.78694128990173,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 198.4881522655487
+    },
+    {
+        "MSE": 0.1876851537534227,
+        "R2_Score": 0.4349855359112863,
+        "Training_Time": 479.6224625110626,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 197.5530059337616
+    },
+    {
+        "MSE": 0.37761711714915935,
+        "R2_Score": -0.14124945507123354,
+        "Training_Time": 480.48723888397217,
+        "N_Qubits": 3,
+        "N_layers": 4,
+        "Circuit_Depth": 9,
+        "Embedding_Time": 198.2464919090271
+    },
+    {
+        "MSE": 0.19925320575656907,
+        "R2_Score": 0.41407720683464355,
+        "Training_Time": 586.885936498642,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 242.54613828659058
+    },
+    {
+        "MSE": 0.06689144663148525,
+        "R2_Score": 0.8648997815609454,
+        "Training_Time": 586.8209290504456,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 242.98806262016296
+    },
+    {
+        "MSE": 0.29003330196984817,
+        "R2_Score": 0.20046880525141286,
+        "Training_Time": 587.2289779186249,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 242.95587825775146
+    },
+    {
+        "MSE": 0.11497573185893728,
+        "R2_Score": 0.18902012337058693,
+        "Training_Time": 588.4044122695923,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 243.30760025978088
+    },
+    {
+        "MSE": 0.054761378015933226,
+        "R2_Score": 0.5576552933199141,
+        "Training_Time": 587.925977230072,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 243.1008484363556
+    },
+    {
+        "MSE": 0.07497411351458799,
+        "R2_Score": 0.6457833282191736,
+        "Training_Time": 591.824786901474,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 244.81743001937866
+    },
+    {
+        "MSE": 0.10141768482822919,
+        "R2_Score": 0.7017717584754053,
+        "Training_Time": 591.2700231075287,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 244.26142740249634
+    },
+    {
+        "MSE": 0.1608445303141356,
+        "R2_Score": 0.5447404881975451,
+        "Training_Time": 590.9274575710297,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 244.34082889556885
+    },
+    {
+        "MSE": 0.14453958455216973,
+        "R2_Score": 0.5648725843673175,
+        "Training_Time": 590.8260116577148,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 244.34323263168335
+    },
+    {
+        "MSE": 0.36494253556557965,
+        "R2_Score": -0.10294383101817295,
+        "Training_Time": 591.2713689804077,
+        "N_Qubits": 3,
+        "N_layers": 5,
+        "Circuit_Depth": 11,
+        "Embedding_Time": 244.53036451339722
+    },
+    {
+        "MSE": 0.14765701989602922,
+        "R2_Score": 0.5658006444641518,
+        "Training_Time": 189.23964095115662,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 82.20414209365845
+    },
+    {
+        "MSE": 0.45354630699373216,
+        "R2_Score": 0.08397548217714113,
+        "Training_Time": 189.61098384857178,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 81.72505021095276
+    },
+    {
+        "MSE": 0.2861772481924031,
+        "R2_Score": 0.21109874072005086,
+        "Training_Time": 189.42786145210266,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 82.005441904068
+    },
+    {
+        "MSE": 0.13608453328497389,
+        "R2_Score": 0.04012945836238446,
+        "Training_Time": 189.4342188835144,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 81.55716395378113
+    },
+    {
+        "MSE": 0.08519653437567287,
+        "R2_Score": 0.3118099402538451,
+        "Training_Time": 189.35305285453796,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 82.10004949569702
+    },
+    {
+        "MSE": 0.1341719701739127,
+        "R2_Score": 0.3661018917945277,
+        "Training_Time": 189.89455699920654,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 82.03195190429688
+    },
+    {
+        "MSE": 0.3205601020391057,
+        "R2_Score": 0.05736286826124393,
+        "Training_Time": 188.99036598205566,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 81.25944995880127
+    },
+    {
+        "MSE": 0.2861686641319854,
+        "R2_Score": 0.1900190446548321,
+        "Training_Time": 189.59394598007202,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 81.66935873031616
+    },
+    {
+        "MSE": 0.1908467054621433,
+        "R2_Score": 0.42546788143160186,
+        "Training_Time": 189.3349039554596,
+        "N_Qubits": 4,
+        "N_layers": 1,
+        "Circuit_Depth": 3,
+        "Embedding_Time": 81.35855388641357
+    }
+]
